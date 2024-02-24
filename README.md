@@ -51,8 +51,8 @@ Horror Movies
 ## How to Reach Me
 
 Contact Me:
-Phone: +63 976 1804 707
-Email: nicolelat6162@yahoo.com
+- Phone: +63 976 1804 707
+- Email: nicolelat6162@yahoo.com
 
 ## What I'm Looking For
 
