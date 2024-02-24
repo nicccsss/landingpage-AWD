@@ -3,16 +3,15 @@ These are the summary for the activities that we have done during our Advance We
 
 ## Table of Contents
 
-- [Introduction](#introduction) ![image](https://github.com/nicccsss/landingpage-AWD/assets/155798224/2c8e3676-a627-4053-a7a4-08bf1f0e009c)
-- [Professional Background](#professional-background) ![image](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg)
-- [Interests](#interests) ![image](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg)
-- [Skills](#skills) ![Skills Image Placeholder](link/to/skills/image)
-- [Projects](#projects) ![Projects Image Placeholder](link/to/projects/image)
-- [Certifications](#certifications) ![Certifications Image Placeholder](link/to/certifications/image)
-- [Hobbies](#hobbies) ![Hobbies Image Placeholder](link/to/hobbies/image)
-- [How to Reach Me](#how-to-reach-me) ![Contact Image Placeholder](link/to/contact/image)
-- [What I'm Looking For](#what-im-looking-for) 🔍
-- [License](#license) 📄
+- [Introduction](#introduction) 👩‍💼
+- [Professional Background](#professional-background) 💼💅
+- [Interests](#interests) 🎀✨
+- [Skills](#skills) 💻💖
+- [Projects](#projects) 🚀🌸
+- [Certifications](#certifications)🎓💕
+- [Hobbies](#hobbies) ⚽🌺
+- [How to Reach Me](#how-to-reach-me) 📧👛
+- [License](#license) 📄💖
 
 ## Introduction
 
@@ -54,7 +53,6 @@ Contact Me:
 - Phone: +63 976 1804 707
 - Email: nicolelat6162@yahoo.com
 
-## What I'm Looking For
 
 ## License
 
