@@ -1,4 +1,5 @@
-![image](https://github.com/nicccsss/landingpage-AWD/assets/155798224/2009850d-cb31-486f-8dc8-e43fb4d70e22)# landingpage-AWD
+![image](https://github.com/nicccsss/landingpage-AWD/assets/155798224/2009850d-cb31-486f-8dc8-e43fb4d70e22)
+# landingpage-AWD
 These are the summary for the activities that we have done during our Advance Web Design
 
 ## Table of Contents
