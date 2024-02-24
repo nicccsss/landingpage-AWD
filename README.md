@@ -1,16 +1,16 @@
-![image](https://github.com/nicccsss/landingpage-AWD/assets/155798224/2c8e3676-a627-4053-a7a4-08bf1f0e009c)![image](https://github.com/nicccsss/landingpage-AWD/assets/155798224/abb0b329-28c2-475b-92ca-292faa1b2858)# landingpage-AWD
+![image](https://github.com/nicccsss/landingpage-AWD/assets/155798224/2009850d-cb31-486f-8dc8-e43fb4d70e22)# landingpage-AWD
 These are the summary for the activities that we have done during our Advance Web Design
 
 ## Table of Contents
 
-- [Introduction](#introduction) 🚀
-- [Professional Background](#professional-background) 💼
-- [Interests](#interests) 🎨
-- [Skills](#skills) 🔧
-- [Projects](#projects) 🛠️
-- [Certifications](#certifications) 🏆
-- [Hobbies](#hobbies) 🏂
-- [How to Reach Me](#how-to-reach-me) 📬
+- [Introduction](#introduction) ![image](https://github.com/nicccsss/landingpage-AWD/assets/155798224/2c8e3676-a627-4053-a7a4-08bf1f0e009c)
+- [Professional Background](#professional-background) ![image](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg)
+- [Interests](#interests) ![image](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg)
+- [Skills](#skills) ![Skills Image Placeholder](link/to/skills/image)
+- [Projects](#projects) ![Projects Image Placeholder](link/to/projects/image)
+- [Certifications](#certifications) ![Certifications Image Placeholder](link/to/certifications/image)
+- [Hobbies](#hobbies) ![Hobbies Image Placeholder](link/to/hobbies/image)
+- [How to Reach Me](#how-to-reach-me) ![Contact Image Placeholder](link/to/contact/image)
 - [What I'm Looking For](#what-im-looking-for) 🔍
 - [License](#license) 📄
 
