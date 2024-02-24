@@ -18,9 +18,9 @@ These are the summary for the activities that we have done during our Advance We
 These are the summary for the activities that we have done during our Advance Web Design
 
 ## Interests
-- Music
-- Poetry
-- Horror Movies
+- Music 🎵
+- Poetry ✍️
+- Horror Movies 🎬
 
 ## Skills
 - Web development (HTML, CSS, JavaScript).
@@ -32,26 +32,26 @@ These are the summary for the activities that we have done during our Advance We
   
 ## Projects
 
-- Jumping Letters
-- Ringing Bell
-- Flash Light
-- Search Bar
-- Bubbles
-- Animation Website
+- Jumping Letters 🅰️
+- Ringing Bell 🔔
+- Flash Light 💡
+- Search Bar 🔍
+- Bubbles 💬
+- Animation Website 🌐
   
 ## Certifications
 
 ## Hobbies
 
-- Watching Netflix
-- Singing
-- Editing Ad contents
+- Watching Netflix 📺
+- Singing 🎤
+- Editing Ad contents 🖋️
 
 ## How to Reach Me
 
 Contact Me:
-- Phone: +63 976 1804 707
-- Email: nicolelat6162@yahoo.com
+- Phone: +63 976 1804 707 📱
+- Email: nicolelat6162@yahoo.com 📧
 
 
 ## License
