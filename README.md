@@ -33,4 +33,8 @@ $ git clone https://github.com/nicccsssss/LandingPage-AWD.git
 $ cd LandingPage-awd
 $ npm install
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
