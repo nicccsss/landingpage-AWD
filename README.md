@@ -3,12 +3,16 @@ These are the summary for the activities that we have done during our Advance We
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](#introduction) 🚀
+- [Professional Background](#professional-background) 💼
+- [Interests](#interests) 🎨
+- [Skills](#skills) 🔧
+- [Projects](#projects) 🛠️
+- [Certifications](#certifications) 🏆
+- [Hobbies](#hobbies) 🏂
+- [How to Reach Me](#how-to-reach-me) 📬
+- [What I'm Looking For](#what-im-looking-for) 🔍
+- [License](#license) 📄
 
 ## Introduction
 
