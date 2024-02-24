@@ -1,4 +1,4 @@
-# landingpage-AWD
+![image](https://github.com/nicccsss/landingpage-AWD/assets/155798224/2c8e3676-a627-4053-a7a4-08bf1f0e009c)![image](https://github.com/nicccsss/landingpage-AWD/assets/155798224/abb0b329-28c2-475b-92ca-292faa1b2858)# landingpage-AWD
 These are the summary for the activities that we have done during our Advance Web Design
 
 ## Table of Contents
@@ -16,11 +16,22 @@ These are the summary for the activities that we have done during our Advance We
 
 ## Introduction
 
-Provide an overview of your project. What problem does it solve? Why did you create it?
+These are the summary for the activities that we have done during our Advance Web Design
 
-## Features
+## Interests
+Music
+Poetry
+Horror Movies
 
-List the key features of your project.
+## Skills
+- Web development (HTML, CSS, JavaScript).
+- Database management (SQL).
+- Software development lifecycle.
+- Critical thinking.
+- Communication skills.
+- Continuous learning.
+  
+## Projects
 
 - Jumping Letters
 - Ringing Bell
@@ -28,22 +39,24 @@ List the key features of your project.
 - Search Bar
 - Bubbles
 - Animation Website
+  
+## Certifications
 
-## Installation
+## Hobbies
 
-Provide step-by-step instructions on how to install and set up your project.
+- Watching Netflix
+- Singing
+- Editing Ad contents
 
-$ git clone https://github.com/nicccsssss/LandingPage-AWD.git
-$ cd LandingPage-awd
-$ npm install
+## How to Reach Me
 
-## Usage
+Contact Me:
+Phone: +63 976 1804 707
+Email: nicolelat6162@yahoo.com
 
-## Contribution
+## What I'm Looking For
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 MIT License
 
@@ -66,4 +79,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
