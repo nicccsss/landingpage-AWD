@@ -18,9 +18,9 @@ These are the summary for the activities that we have done during our Advance We
 These are the summary for the activities that we have done during our Advance Web Design
 
 ## Interests
-Music
-Poetry
-Horror Movies
+- Music
+- Poetry
+- Horror Movies
 
 ## Skills
 - Web development (HTML, CSS, JavaScript).
