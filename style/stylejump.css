@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background: linear-gradient(45deg, #ffd2d6, #ff0080);
+}
+
+.letters{
+    perspective: 1000px;
+
+    .letter{
+        overflow: hidden;
+        display: inline-block;
+        user-select: none;
+        line-height: 0.8;
+        font-size: 5rem;
+        color: (45deg, red, #df7982);;
+
+        &.active{
+            animation: jump 2s ease-in-out;
+            transform-origin: bottom left;
+        }
+    }
+}
+
+@keyframes jump {
+    0%{
+        transform: translate(0,0) rotate(0deg);
+    }
+    25%{
+        transform: scale(2) translate(50px, -115px) rotate(150deg);
+    }
+    75%{
+        transform: scale(1.1) translate(0,105px) rotate(245deg);
+    }
+    100%{
+        transform: translate(0,0) rotate(360deg);
+    }
+}
