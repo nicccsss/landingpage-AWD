@@ -1,0 +1,108 @@
+body {
+    background-image: url('clothing2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Calibri', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* full */
+}
+
+header {
+    background: #247488;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.header-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 20%;
+    height: auto;
+   
+}
+
+nav {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+nav button {
+    color: #fff;
+    background-color: #247488;
+    border: none;
+    padding: 10px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.1s ease, border-radius 0.3s ease;
+}
+
+nav button:hover {
+    background-color: #93c8e2;
+}
+
+nav button:active {
+    transform: scale(0.95);
+    border-radius: 12px;
+}
+
+.contactbox {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    animation: popIn 1s ease-out;
+}
+
+main {
+    align-content: center;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+h2 {
+    color: #ffffff;
+}
+
+p{
+    color: #ffffff;
+}
+
+
+@keyframes popIn {
+    0% {
+        transform: scale(0);
+    }
+    80% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+    margin-top: auto; /* Push the footer to the bottom */
+    width: 100%;
+}

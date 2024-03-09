@@ -1,0 +1,47 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background: linear-gradient(45deg, #dac1cb, #fa009a); 
+}
+
+.letters {
+    perspective: 1000px;
+}
+
+.letter {
+    overflow: hidden;
+    display: inline-block;
+    user-select: none;
+    line-height: 0.8;
+    font-size: 5rem;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+
+.letter.active {
+    animation: jump 1.5s ease-in-out backwards; 
+    transform-origin: bottom left;
+}
+
+@keyframes jump {
+    0% {
+        transform: translate(0, 0) rotate(0); 
+    }
+    25% {
+        transform: translateY(-150px); 
+    }
+    50% {
+        transform: scale(1.5); 
+    }
+    75% {
+        transform: translateY(150px); 
+    }
+    100% {
+        transform: rotate(360deg); 
+    }
+}

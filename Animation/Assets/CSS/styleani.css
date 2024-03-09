@@ -1,0 +1,162 @@
+body {
+    background-image: url('bgclothing.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    position: relative; /* Added relative positioning */
+}
+
+header {
+    background: #247488;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.header-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%; /* Adjusted ng max-width to make it responsive */
+    height: auto;
+    animation: popIn 1s ease-out;
+}
+
+nav {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+nav button {
+    color: #fff;
+    background-color: #247488;
+    border: none;
+    padding: 10px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.1s ease, border-radius 0.3s ease;
+}
+
+nav button:hover {
+    background-color: #93c8e2;
+}
+
+nav button:active {
+    transform: scale(0.95);
+    border-radius: 12px;
+}
+
+h2 {
+    margin-top: 5%;
+    color: #FFFFFF;
+    font-size: 60px;
+    transition: opacity 1s ease;
+}
+
+.container {
+    background: rgba(36, 116, 136, 0.8);
+    max-width: 90vw; /* Adjusted sa max-width to make it responsive */
+    margin: 10vw auto; /* Adjusted sa margin to make it responsive */
+    padding: 6vw; /* Adjusted sa padding to make it responsive */
+    text-align: center;
+}
+
+.container:hover {
+    animation: shake 0.5s ease-in-out;
+}
+
+.container p {
+    color: #fff;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    letter-spacing: 4px;
+    animation: typing 5s steps(40) forwards;
+    margin: 10px 0;
+    font-size: 20;
+    max-width: 90vw; /* Adjusted sa max-width to make it responsive */
+}
+
+@keyframes shake {
+    0%, 100% {
+        transform: translateX(0);
+    }
+    25%, 75% {
+        transform: translateX(-5px);
+    }
+    50% {
+        transform: translateX(5px);
+    }
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes popIn {
+    0% {
+        transform: scale(0);
+    }
+    80% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+    margin-top: auto;
+    width: 100%;
+}
+
+/* Media Query for smaller screens */
+@media (max-width: 600px) {
+    header {
+        padding: 5px;
+    }
+
+    .header-image {
+        max-width: 80%;
+    }
+
+    nav button {
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    .container {
+        margin: 5vw auto;
+        padding: 3vw;
+    }
+
+    .container p {
+        max-width: 80vw;
+    }
+}

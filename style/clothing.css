@@ -1,0 +1,116 @@
+body {
+    background-image: url('bgclothing3.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    position: relative; /* Added relative positioning */
+}
+
+header {
+    background: #247488;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.header-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 20%;
+    height: auto;
+    animation: popIn 1s ease-out;
+}
+
+nav {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+nav button {
+    color: #fff;
+    background-color: #247488;
+    border: none;
+    padding: 10px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.1s ease, border-radius 0.3s ease;
+}
+
+nav button:hover {
+    background-color: #93c8e2;
+}
+
+nav button:active {
+    transform: scale(0.95);
+    border-radius: 12px;
+}
+
+.main-text {
+    font-size: 100px;
+    font-family: cursive, 'Cursive', sans-serif;
+    color: #020202;
+    white-space: nowrap;
+    overflow: hidden;
+    width: auto; /* Initially set sa auto for visibility */
+    position: absolute; /* Added absolute positioning */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    animation: zoomIn 1s ease-in-out forwards; /* Zoom animation with forwards to keep the final state */
+}
+
+@keyframes zoomIn {
+    to {
+        transform: translate(-50%, -50%) scale(1); /* Adjust sa center and final scale 1 */
+    }
+}
+
+@keyframes popIn {
+    0% {
+        transform: scale(0);
+    }
+    80% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+    margin-top: auto; /* Push the footer to the bottom */
+    width: 100%;
+}
+
+/* Media Query para sa smaller screens */
+@media (max-width: 600px) {
+    .header-image {
+        max-width: 80%;
+    }
+
+    nav button {
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    .main-text {
+        font-size: 40px;
+    }
+}
